@@ -1,0 +1,84 @@
+{
+  "resourceCards": [
+    {
+      "_Key": 1,
+      "title": "RESOURCE - DEMOCRATIC",
+      "imageName": "donkey",
+      "resource_Type": 0,
+      "resourceCount": 2,
+      "profilePicture": "whitehouse"
+    },
+    {
+      "_Key": 1,
+      "title": "RESOURCE - DEMOCRATIC",
+      "imageName": "donkey",
+      "resource_Type": 0,
+      "resourceCount": 2,
+      "profilePicture": "whitehouse"
+    },
+    {
+      "_Key": 1,
+      "title": "RESOURCE - DEMOCRATIC",
+      "imageName": "donkey",
+      "resource_Type": 0,
+      "resourceCount": 2,
+      "profilePicture": "whitehouse"
+    },
+    {
+      "_Key": 1,
+      "title": "RESOURCE - DEMOCRATIC",
+      "imageName": "donkey",
+      "resource_Type": 0,
+      "resourceCount": 2,
+      "profilePicture": "whitehouse"
+    },
+    {
+      "_Key": 1,
+      "title": "RESOURCE - DEMOCRATIC",
+      "imageName": "donkey",
+      "resource_Type": 0,
+      "resourceCount": 2,
+      "profilePicture": "whitehouse"
+    },
+    {
+      "_Key": 1,
+      "title": "RESOURCE - DEMOCRATIC",
+      "imageName": "donkey",
+      "resource_Type": 0,
+      "resourceCount": 2,
+      "profilePicture": "whitehouse"
+    },
+    {
+      "_Key": 1,
+      "title": "RESOURCE - DEMOCRATIC",
+      "imageName": "donkey",
+      "resource_Type": 0,
+      "resourceCount": 2,
+      "profilePicture": "whitehouse"
+    },
+    {
+      "_Key": 1,
+      "title": "RESOURCE - DEMOCRATIC",
+      "imageName": "donkey",
+      "resource_Type": 0,
+      "resourceCount": 2,
+      "profilePicture": "whitehouse"
+    },
+    {
+      "_Key": 1,
+      "title": "RESOURCE - DEMOCRATIC",
+      "imageName": "donkey",
+      "resource_Type": 0,
+      "resourceCount": 2,
+      "profilePicture": "whitehouse"
+    },
+    {
+      "_Key": 1,
+      "title": "RESOURCE - DEMOCRATIC",
+      "imageName": "donkey",
+      "resource_Type": 0,
+      "resourceCount": 2,
+      "profilePicture": "whitehouse"
+    }
+  ]
+}

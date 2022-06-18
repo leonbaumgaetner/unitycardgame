@@ -1,0 +1,224 @@
+{
+  "attackCards": [
+    {
+      "_Key": 0,
+      "title": "CABINET MINISTER",
+      "imageName": "kamalaharris",
+      "name": "Kamala Harris",
+      "attack": 2,
+      "defense": 2,
+      "hireCost": 2,
+      "voteValue": 1,
+      "resource_Type": 0
+    },
+    {
+      "_Key": 0,
+      "title": "CABINET MINISTER",
+      "imageName": "anthonyblinken",
+      "name": "Anthony Blinken",
+      "attack": 4,
+      "defense": 1,
+      "hireCost": 3,
+      "voteValue": 1,
+      "resource_Type": 0
+    },
+    {
+      "_Key": 0,
+      "title": "CABINET MINISTER",
+      "imageName": "janetyellen",
+      "name": "Janet Yellen",
+      "attack": 2,
+      "defense": 2,
+      "hireCost": 2,
+      "voteValue": 2,
+      "resource_Type": 0
+    },
+    {
+      "_Key": 0,
+      "title": "CABINET MINISTER",
+      "imageName": "llyodaustin",
+      "name": "Llyod Austin",
+      "attack": 3,
+      "defense": 1,
+      "hireCost": 2,
+      "voteValue": 3,
+      "resource_Type": 0
+    },
+    {
+      "_Key": 0,
+      "title": "CABINET MINISTER",
+      "imageName": "kamalaharris",
+      "name": "Kamala Harris",
+      "attack": 4,
+      "defense": 3,
+      "hireCost": 2,
+      "voteValue": 1,
+      "resource_Type": 0
+    },
+    {
+      "_Key": 0,
+      "title": "CABINET MINISTER",
+      "imageName": "kamalaharris",
+      "name": "Kamala Harris",
+      "attack": 3,
+      "defense": 1,
+      "hireCost": 2,
+      "voteValue": 1,
+      "resource_Type": 0
+    },
+    {
+      "_Key": 0,
+      "title": "CABINET MINISTER",
+      "imageName": "kamalaharris",
+      "name": "Kamala Harris",
+      "attack": 1,
+      "defense": 2,
+      "hireCost": 2,
+      "voteValue": 1,
+      "resource_Type": 0
+    },
+    {
+      "_Key": 0,
+      "title": "CABINET MINISTER",
+      "imageName": "kamalaharris",
+      "name": "Kamala Harris",
+      "attack": 1,
+      "defense": 1,
+      "hireCost": 2,
+      "voteValue": 1,
+      "resource_Type": 0
+    },
+    {
+      "_Key": 0,
+      "title": "CABINET MINISTER",
+      "imageName": "llyodaustin",
+      "name": "Llyod Austin",
+      "attack": 3,
+      "defense": 1,
+      "hireCost": 3,
+      "voteValue": 2,
+      "resource_Type": 0
+    },
+    {
+      "_Key": 0,
+      "title": "CABINET MINISTER",
+      "imageName": "janetyellen",
+      "name": "Janet Yellen",
+      "attack": 2,
+      "defense": 2,
+      "hireCost": 1,
+      "voteValue": 3,
+      "resource_Type": 0
+    },
+    {
+      "_Key": 0,
+      "title": "CABINET MINISTER",
+      "imageName": "janetyellen",
+      "name": "Janet Yellen",
+      "attack": 2,
+      "defense": 2,
+      "hireCost": 1,
+      "voteValue": 3,
+      "resource_Type": 0
+    },
+    {
+      "_Key": 0,
+      "title": "CABINET MINISTER",
+      "imageName": "janetyellen",
+      "name": "Janet Yellen",
+      "attack": 2,
+      "defense": 2,
+      "hireCost": 1,
+      "voteValue": 3,
+      "resource_Type": 0
+    },
+    {
+      "_Key": 0,
+      "title": "CABINET MINISTER",
+      "imageName": "llyodaustin",
+      "name": "Llyod Austin",
+      "attack": 3,
+      "defense": 1,
+      "hireCost": 2,
+      "voteValue": 3,
+      "resource_Type": 0
+    },
+    {
+      "_Key": 0,
+      "title": "CABINET MINISTER",
+      "imageName": "llyodaustin",
+      "name": "Llyod Austin",
+      "attack": 3,
+      "defense": 1,
+      "hireCost": 2,
+      "voteValue": 3,
+      "resource_Type": 0
+    },
+    {
+      "_Key": 0,
+      "title": "CABINET MINISTER",
+      "imageName": "kamalaharris",
+      "name": "Kamala Harris",
+      "attack": 2,
+      "defense": 1,
+      "hireCost": 2,
+      "voteValue": 1,
+      "resource_Type": 0
+    },
+    {
+      "_Key": 0,
+      "title": "CABINET MINISTER",
+      "imageName": "llyodaustin",
+      "name": "Llyod Austin",
+      "attack": 3,
+      "defense": 1,
+      "hireCost": 2,
+      "voteValue": 2,
+      "resource_Type": 0
+    },
+    {
+      "_Key": 0,
+      "title": "CABINET MINISTER",
+      "imageName": "llyodaustin",
+      "name": "Llyod Austin",
+      "attack": 3,
+      "defense": 1,
+      "hireCost": 2,
+      "voteValue": 2,
+      "resource_Type": 0
+    },
+    {
+      "_Key": 0,
+      "title": "CABINET MINISTER",
+      "imageName": "llyodaustin",
+      "name": "Llyod Austin",
+      "attack": 3,
+      "defense": 1,
+      "hireCost": 2,
+      "voteValue": 2,
+      "resource_Type": 0
+    },
+    {
+      "_Key": 0,
+      "title": "CABINET MINISTER",
+      "imageName": "anthonyblinken",
+      "name": "Anthony Blinken",
+      "attack": 4,
+      "defense": 1,
+      "hireCost": 1,
+      "voteValue": 3,
+      "resource_Type": 0
+    },
+    {
+      "_Key": 0,
+      "title": "CABINET MINISTER",
+      "imageName": "anthonyblinken",
+      "name": "Anthony Blinken",
+      "attack": 4,
+      "defense": 1,
+      "hireCost": 1,
+      "voteValue": 3,
+      "resource_Type": 0
+    }
+  ]
+}
